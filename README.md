@@ -5,9 +5,7 @@ I am currently pursuing an **M.Sc. in Computer Engineering**, specializing in **
 
 I am also an **Erasmus+ M2 exchange student at École Centrale de Nantes**, studying **Data Science, Signal & Image Processing**.
 
-My academic interests include **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Signal & Image Processing**, with a particular interest in applying these technologies to real-world problems.
-
-My background combines machine learning, software engineering, full-stack development, and academic research.
+My main interests lie in **Machine Learning, Deep Learning, Computer Vision, and Signal & Image Processing**, particularly in developing and applying intelligent systems to real-world problems.
 
 ---
 
