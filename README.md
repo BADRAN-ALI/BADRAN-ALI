@@ -3,11 +3,11 @@
 
 I am currently pursuing an **M.Sc. in Computer Engineering**, specializing in **Artificial Intelligence & Data Analytics**, at **Politecnico di Torino**.
 
-As an **Erasmus+ M2 exchange student at École Centrale de Nantes**, I am studying **Data Science, Signal & Image Processing**, expanding my academic background in machine learning and advanced computational methods.
+I am also an **Erasmus+ M2 exchange student at École Centrale de Nantes**, studying **Data Science, Signal & Image Processing**.
 
-My main interests include **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Signal & Image Processing**. I am particularly interested in applying these technologies to real-world problems and developing reliable, practical AI solutions.
+My academic interests include **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Signal & Image Processing**, with a particular interest in applying these technologies to real-world problems.
 
-My work spans machine learning, software engineering, full-stack development, and academic research.
+My background combines machine learning, software engineering, full-stack development, and academic research.
 
 ---
 
@@ -37,17 +37,17 @@ Graduated: March 2026
 
 ## 🚀 Projects
 
-- **[Fingerprint Spoofing Detection](https://github.com/BADRAN-ALI/machine-learning-pattern-recognition)**  
-  Machine learning project implementing and comparing Gaussian classifiers, Logistic Regression, Support Vector Machines, and Gaussian Mixture Models, with dimensionality reduction, model calibration, and score fusion. Includes ten Python laboratory modules and a [full project report](https://github.com/BADRAN-ALI/machine-learning-pattern-recognition/blob/main/project_report.pdf).
+- **Fingerprint Spoofing Detection**  
+  Machine learning project implementing and comparing Gaussian classifiers, Logistic Regression, Support Vector Machines, and Gaussian Mixture Models, with dimensionality reduction, model calibration, and score fusion. Includes ten Python laboratory modules and a comprehensive project report.
 
-- **[Participium](https://github.com/BADRAN-ALI/participium)**  
+- **Participium**  
   Collaborative full-stack civic reporting platform featuring geolocated issue submissions, role-based workflows, and communication between citizens and municipal operators.
 
-- **[Last Race](https://github.com/BADRAN-ALI/last-race-fullstack)**  
+- **Last Race**  
   Full-stack interactive web game developed with React, Node.js, Express, and SQLite, featuring route planning, timed simulations, user authentication, and player rankings.
 
-- **[EEG-Based Motor Prosthetic Devices](https://github.com/BADRAN-ALI/eeg-motor-prosthetics-review)**  
-  Critical literature review examining EEG signal processing, machine learning approaches, brain-computer interfaces, and motor neuroprosthetic devices. Includes the [full academic report](https://github.com/BADRAN-ALI/eeg-motor-prosthetics-review/blob/main/report.pdf).
+- **EEG-Based Motor Prosthetic Devices**  
+  Critical literature review examining EEG signal processing, machine learning approaches, brain-computer interfaces, and motor neuroprosthetic devices.
 
 ---
 
